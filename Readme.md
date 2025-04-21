@@ -7,8 +7,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd repo
+git clone git@github.com:mansurissa/ace-be.git
+cd ace-be
 ```
 
 ### 2. Create a virtual environment
